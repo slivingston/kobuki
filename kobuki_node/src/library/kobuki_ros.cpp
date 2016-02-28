@@ -38,7 +38,6 @@
 
 #include <float.h>
 #include <tf/tf.h>
-#include <ecl/streams/string_stream.hpp>
 #include <kobuki_msgs/VersionInfo.h>
 #include "kobuki_node/kobuki_ros.hpp"
 
